@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "Dokumenter\\Workspace\\Arduino\\MKR1000 Server"
+		},
+		{
+			"path": ".vs"
+		},
+		{
+			"path": "cloud"
+		},
+		{
+			"path": "Datablade"
+		},
+		{
+			"path": "Ekstra"
+		},
+		{
+			"path": "Inspiration"
+		},
+		{
+			"path": "lib"
+		},
+		{
+			"path": "Opstilling"
+		}
+	],
+	"settings": {}
+}
