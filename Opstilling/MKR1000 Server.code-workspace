@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": ".vs"
+		},
+		{
+			"path": "cloud"
+		},
+		{
+			"path": "Datablade"
+		},
+		{
+			"path": "Ekstra"
+		},
+		{
+			"path": "Inspiration"
+		},
+		{
+			"path": "lib"
+		},
+		{
+			"path": "Opstilling"
+		}
+	],
+	"settings": {}
+}
