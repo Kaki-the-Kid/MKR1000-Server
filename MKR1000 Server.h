@@ -1,9 +1,9 @@
 ﻿/*****************************************************************//**
- * \file   MKR1000 Server.h
- * \brief  
+ * @file   MKR1000 Server.h
+ * @brief  
  * 
- * \author Karsten Reitan Sørensen
- * \date   October 2020
+ * @author Karsten Reitan Sørensen
+ * @date   October 2020
  *********************************************************************/
 
 #pragma once
