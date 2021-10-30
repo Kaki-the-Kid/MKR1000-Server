@@ -7,19 +7,16 @@
 			"path": "cloud"
 		},
 		{
-			"path": "Datablade"
-		},
-		{
-			"path": "Ekstra"
-		},
-		{
-			"path": "Inspiration"
+			"path": "datablade"
 		},
 		{
 			"path": "lib"
 		},
 		{
-			"path": "Opstilling"
+			"path": "debug"
+		},
+		{
+			"path": "x64"
 		}
 	],
 	"settings": {}
